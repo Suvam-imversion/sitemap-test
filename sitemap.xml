@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://example.com/</loc>
+    <image:image>
+      <image:loc>https://example.com/images/homepage-banner.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/about</loc>
+    <image:image>
+      <image:loc>https://example.com/images/team-photo.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/services</loc>
+    <image:image>
+      <image:loc>https://example.com/images/services-overview.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/contact</loc>
+    <image:image>
+      <image:loc>https://example.com/images/contact-map.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/blog/post-1</loc>
+    <image:image>
+      <image:loc>https://example.com/images/blog-post-1.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/blog/post-2</loc>
+    <image:image>
+      <image:loc>https://example.com/images/blog-post-2.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/products/product-1</loc>
+    <image:image>
+      <image:loc>https://example.com/images/product-1.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/products/product-2</loc>
+    <image:image>
+      <image:loc>https://example.com/images/product-2.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/faq</loc>
+    <image:image>
+      <image:loc>https://example.com/images/faq-banner.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://example.com/testimonials</loc>
+    <image:image>
+      <image:loc>https://example.com/images/testimonials.jpg</image:loc>
+    </image:image>
+  </url>
+
+</urlset>
